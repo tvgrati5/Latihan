@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url=
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="EPG Processor v0.8.2 - BEVY Software" generator-info-url="https://www.bevy.be">
 <channel id="ABC Australia"><display-name lang="id">ABC Australia</display-name><icon src="https://images.indihometv.com/logogrey/grey_logo_abcaustralia_small.png"/></channel>
